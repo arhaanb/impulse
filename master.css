@@ -1,0 +1,26 @@
+#explain ol li{
+    margin-left: 1em;
+}
+
+.box {
+    background-color: white;
+    border-style: solid;
+    border-width: 0.2em;
+    border-color: blueviolet;
+    padding: 2em;
+    border-radius: 0.8em;
+    margin: 2em 0;
+}
+
+.question {
+    font-size: 1.4em;
+    line-height: 1.3em;
+}
+
+.answer {
+    color: blueviolet;
+}
+
+.explanation {
+    font-size: 1em;
+}
